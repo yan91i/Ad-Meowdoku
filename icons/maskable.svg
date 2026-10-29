@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Meowdoku maskable icon</title>
+  <desc id="desc">Maskable original Meowdoku icon with a centered cat face and safe padding.</desc>
+  <rect width="512" height="512" fill="#8b5968"/>
+  <rect x="96" y="96" width="320" height="320" rx="72" fill="#fff8f2"/>
+  <path d="M164 206l42-54 42 54" fill="#f4c667"/>
+  <path d="M264 206l42-54 42 54" fill="#f4c667"/>
+  <rect x="152" y="196" width="208" height="164" rx="56" fill="#f6d892"/>
+  <circle cx="224" cy="266" r="14" fill="#3b2d31"/>
+  <circle cx="288" cy="266" r="14" fill="#3b2d31"/>
+  <path d="M248 298h16l-8 12z" fill="#8b5968"/>
+  <path d="M230 326c16 14 36 14 52 0" fill="none" stroke="#3b2d31" stroke-width="12" stroke-linecap="round"/>
+</svg>

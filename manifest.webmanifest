@@ -1,0 +1,42 @@
+{
+  "name": "Meowdoku",
+  "short_name": "Meowdoku",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#5b5ed6",
+  "background_color": "#fff8ec",
+  "description": "Play Meowdoku online for free: place cats in colored regions, avoid row and column conflicts, learn the rules, and solve without a download.",
+  "icons": [
+    {
+      "src": "/game/assets/cat-face.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/game-board.svg",
+      "sizes": "960x640",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "Meowdoku browser board showing colored regions, cat placements, and careful X marks"
+    },
+    {
+      "src": "/screenshots/strategy-view.svg",
+      "sizes": "960x640",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "Meowdoku strategy diagram showing how one cat blocks rows, columns, and diagonal cells"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Meowdoku icon</title>
+  <desc id="desc">Original Meowdoku site icon with a cat face on a soft puzzle grid.</desc>
+  <rect width="512" height="512" rx="88" fill="#8b5968"/>
+  <rect x="78" y="78" width="356" height="356" rx="54" fill="#fff8f2"/>
+  <path d="M150 188l38-48 38 48" fill="#f4c667"/>
+  <path d="M286 188l38-48 38 48" fill="#f4c667"/>
+  <rect x="138" y="178" width="236" height="194" rx="62" fill="#f6d892"/>
+  <circle cx="216" cy="260" r="16" fill="#3b2d31"/>
+  <circle cx="296" cy="260" r="16" fill="#3b2d31"/>
+  <path d="M246 296h20l-10 12z" fill="#8b5968"/>
+  <path d="M224 330c18 18 46 18 64 0" fill="none" stroke="#3b2d31" stroke-width="14" stroke-linecap="round"/>
+  <path d="M126 214h58M328 214h58M116 264h58M338 264h58M126 314h58M328 314h58" stroke="#8b5968" stroke-width="11" stroke-linecap="round" opacity="0.55"/>
+  <path d="M100 100h312M100 412h312M100 100v312M412 100v312" stroke="#8b5968" stroke-width="12" stroke-linecap="round" opacity="0.18"/>
+</svg>

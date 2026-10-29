@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Meowdoku browser board</title>
+  <desc id="desc">A Meowdoku-style board with colored regions, one placed cat, and X marks for impossible cells.</desc>
+  <rect width="960" height="640" fill="#f4efed"/>
+  <rect x="72" y="72" width="816" height="496" rx="18" fill="#fff8f2" stroke="#e1d0ca" stroke-width="3"/>
+  <text x="112" y="142" font-family="Arial, sans-serif" font-size="38" font-weight="800" fill="#3b2d31">Read the regions</text>
+  <text x="112" y="190" font-family="Arial, sans-serif" font-size="22" fill="#765765">Each color needs one cat, while rows and columns stay exclusive.</text>
+  <g transform="translate(112 240)" stroke="#fff8f2" stroke-width="4">
+    <rect width="72" height="72" rx="12" fill="#f6d892"/>
+    <rect x="76" width="72" height="72" rx="12" fill="#f6d892"/>
+    <rect x="152" width="72" height="72" rx="12" fill="#d8ead5"/>
+    <rect x="228" width="72" height="72" rx="12" fill="#b9d8ef"/>
+    <rect x="304" width="72" height="72" rx="12" fill="#b9d8ef"/>
+    <rect y="76" width="72" height="72" rx="12" fill="#f3b2b5"/>
+    <rect x="76" y="76" width="72" height="72" rx="12" fill="#d8ead5"/>
+    <rect x="152" y="76" width="72" height="72" rx="12" fill="#d8ead5"/>
+    <rect x="228" y="76" width="72" height="72" rx="12" fill="#f6d892"/>
+    <rect x="304" y="76" width="72" height="72" rx="12" fill="#b9d8ef"/>
+    <rect y="152" width="72" height="72" rx="12" fill="#f3b2b5"/>
+    <rect x="76" y="152" width="72" height="72" rx="12" fill="#f3b2b5"/>
+    <rect x="152" y="152" width="72" height="72" rx="12" fill="#d8ead5"/>
+    <rect x="228" y="152" width="72" height="72" rx="12" fill="#f6d892"/>
+    <rect x="304" y="152" width="72" height="72" rx="12" fill="#f6d892"/>
+    <rect y="228" width="72" height="72" rx="12" fill="#b9d8ef"/>
+    <rect x="76" y="228" width="72" height="72" rx="12" fill="#f3b2b5"/>
+    <rect x="152" y="228" width="72" height="72" rx="12" fill="#b9d8ef"/>
+    <rect x="228" y="228" width="72" height="72" rx="12" fill="#d8ead5"/>
+    <rect x="304" y="228" width="72" height="72" rx="12" fill="#d8ead5"/>
+  </g>
+  <text x="206" y="360" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#3b2d31">cat</text>
+  <text x="130" y="284" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#8b5968">X</text>
+  <text x="434" y="284" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#8b5968">X</text>
+  <text x="358" y="436" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#8b5968">X</text>
+  <rect x="664" y="252" width="176" height="68" rx="12" fill="#ffffff" stroke="#e1d0ca" stroke-width="2"/>
+  <text x="692" y="294" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#3b2d31">3 hearts</text>
+  <rect x="664" y="342" width="176" height="68" rx="12" fill="#ffffff" stroke="#e1d0ca" stroke-width="2"/>
+  <text x="692" y="384" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#3b2d31">No guesses</text>
+</svg>

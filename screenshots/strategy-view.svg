@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Meowdoku strategy diagram</title>
+  <desc id="desc">A Meowdoku strategy diagram showing row, column, and diagonal cells blocked by a single cat.</desc>
+  <rect width="960" height="640" fill="#fff8f2"/>
+  <rect x="80" y="76" width="800" height="488" rx="18" fill="#f4efed" stroke="#e1d0ca" stroke-width="3"/>
+  <text x="120" y="148" font-family="Arial, sans-serif" font-size="38" font-weight="800" fill="#3b2d31">Prove the next cat</text>
+  <text x="120" y="196" font-family="Arial, sans-serif" font-size="22" fill="#765765">One confirmed cat blocks its row, column, and neighboring diagonals.</text>
+  <g transform="translate(136 258)" stroke="#fff8f2" stroke-width="4">
+    <rect width="74" height="74" rx="12" fill="#d8ead5"/>
+    <rect x="78" width="74" height="74" rx="12" fill="#f6d892"/>
+    <rect x="156" width="74" height="74" rx="12" fill="#d8ead5"/>
+    <rect x="234" width="74" height="74" rx="12" fill="#f3b2b5"/>
+    <rect y="78" width="74" height="74" rx="12" fill="#b9d8ef"/>
+    <rect x="78" y="78" width="74" height="74" rx="12" fill="#f3b2b5"/>
+    <rect x="156" y="78" width="74" height="74" rx="12" fill="#f6d892"/>
+    <rect x="234" y="78" width="74" height="74" rx="12" fill="#d8ead5"/>
+    <rect y="156" width="74" height="74" rx="12" fill="#f6d892"/>
+    <rect x="78" y="156" width="74" height="74" rx="12" fill="#d8ead5"/>
+    <rect x="156" y="156" width="74" height="74" rx="12" fill="#b9d8ef"/>
+    <rect x="234" y="156" width="74" height="74" rx="12" fill="#f3b2b5"/>
+    <rect y="234" width="74" height="74" rx="12" fill="#f3b2b5"/>
+    <rect x="78" y="234" width="74" height="74" rx="12" fill="#b9d8ef"/>
+    <rect x="156" y="234" width="74" height="74" rx="12" fill="#d8ead5"/>
+    <rect x="234" y="234" width="74" height="74" rx="12" fill="#f6d892"/>
+  </g>
+  <path d="M136 375h308M290 258v308" stroke="#8b5968" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
+  <path d="M216 301l148 148M364 301L216 449" stroke="#8b5968" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
+  <text x="250" y="392" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#3b2d31">cat</text>
+  <text x="546" y="322" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#3b2d31">Blocked by one cat</text>
+  <text x="546" y="368" font-family="Arial, sans-serif" font-size="21" fill="#765765">same row</text>
+  <text x="546" y="406" font-family="Arial, sans-serif" font-size="21" fill="#765765">same column</text>
+  <text x="546" y="444" font-family="Arial, sans-serif" font-size="21" fill="#765765">diagonal contact</text>
+</svg>
