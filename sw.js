@@ -1,16 +1,16 @@
 const CACHE_NAME = "meowdoku-club-v8";
 const OFFLINE_URLS = [
-  "/",
-  "/about/",
-  "/privacy/",
-  "/terms/",
-  "/disclaimer/",
-  "/contact/",
-  "/game/index.html",
-  "/manifest.webmanifest",
-  "/icons/icon.svg",
-  "/icons/maskable.svg",
-  "/og-image.svg"
+  "./",
+  "about/",
+  "privacy/",
+  "terms/",
+  "disclaimer/",
+  "contact/",
+  "game/index.html",
+  "manifest.webmanifest",
+  "icons/icon.svg",
+  "icons/maskable.svg",
+  "og-image.svg"
 ];
 
 self.addEventListener("install", (event) => {
@@ -51,7 +51,7 @@ self.addEventListener("fetch", (event) => {
 
           return response;
         })
-        .catch(() => caches.match("/"));
+        .catch(() => caches.match("./"));
     })
   );
 });
