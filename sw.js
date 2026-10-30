@@ -8,6 +8,7 @@ const OFFLINE_URLS = [
   "contact/",
   "game/index.html",
   "manifest.webmanifest",
+  "assets/css/main.css",
   "icons/icon.svg",
   "icons/maskable.svg",
   "og-image.svg"
